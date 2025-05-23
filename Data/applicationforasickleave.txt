@@ -1,0 +1,46 @@
+Here's a sample application for a sick leave:
+
+**Application for Sick Leave**
+
+To,
+[Recipient's Name]
+[Recipient's Title]
+[Company/Organization Name]
+[Date]
+
+Subject: Request for Sick Leave
+
+Dear [Recipient's Name],
+
+I am writing to request a sick leave for [number] days, from [start date] to [end date], due to my current health condition. Unfortunately, I am not feeling well and my doctor has advised me to take rest for a few days.
+
+I apologize for any inconvenience this may cause and assure you that I will make up for the missed work as soon as I am able to return to office. I will ensure that all my tasks are completed and my work is up to date before taking my leave.
+
+I would be grateful if you could approve my request for sick leave. If there are any concerns or if you need any additional information, please let me know.
+
+Thank you for your understanding and support.
+
+Sincerely,
+
+[Your Name]
+[Your Designation]
+[Your Contact Information]
+
+**Alternative: Email Format**
+
+If you want to send it via email, here's the same content in an email format:
+
+Subject: Request for Sick Leave
+
+Dear [Recipient's Name],
+
+I am writing to request a sick leave for [number] days, from [start date] to [end date], due to my current health condition. Unfortunately, I am not feeling well and my doctor has advised me to take rest for a few days.
+
+I apologize for any inconvenience this may cause and assure you that I will make up for the missed work as soon as I am able to return to office. I will ensure that all my tasks are completed and my work is up to date before taking my leave.
+
+I would be grateful if you could approve my request for sick leave. If there are any concerns or if you need any additional information, please let me know.
+
+Thank you for your understanding and support.
+
+Best regards,
+[Your Name]

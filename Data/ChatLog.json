@@ -1,0 +1,170 @@
+[
+    {
+        "role": "user",
+        "content": "Hello jarvis how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm functioning optimally, thank you for inquiring about my status."
+    },
+    {
+        "role": "user",
+        "content": "Can you just give responses a big fast?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm fine."
+    },
+    {
+        "role": "user",
+        "content": "I am asking you to give responses."
+    },
+    {
+        "role": "assistant",
+        "content": "Yes"
+    },
+    {
+        "role": "user",
+        "content": "Give responses as fast as possible."
+    },
+    {
+        "role": "assistant",
+        "content": "Ok"
+    },
+    {
+        "role": "user",
+        "content": "Suggest me to make a cup of coffee."
+    },
+    {
+        "role": "assistant",
+        "content": "Make one!"
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Bye!"
+    },
+    {
+        "role": "user",
+        "content": "Welcome back buddy."
+    },
+    {
+        "role": "assistant",
+        "content": "Hey!"
+    },
+    {
+        "role": "user",
+        "content": "You a quite a long responses recording you are just consising it into a single word."
+    },
+    {
+        "role": "assistant",
+        "content": "Yes"
+    },
+    {
+        "role": "user",
+        "content": "Chat with me."
+    },
+    {
+        "role": "assistant",
+        "content": "Hi"
+    },
+    {
+        "role": "user",
+        "content": "Send what i am talking about?"
+    },
+    {
+        "role": "assistant",
+        "content": "Chat"
+    },
+    {
+        "role": "user",
+        "content": "What is your name?"
+    },
+    {
+        "role": "assistant",
+        "content": "Jarvis"
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Bye"
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Hi"
+    },
+    {
+        "role": "user",
+        "content": "What is your name?"
+    },
+    {
+        "role": "assistant",
+        "content": "Jarvis"
+    },
+    {
+        "role": "user",
+        "content": "You don't know who built you?"
+    },
+    {
+        "role": "assistant",
+        "content": "No"
+    },
+    {
+        "role": "user",
+        "content": "Okay just remember that a person named sparsh kumar that is me only has built you."
+    },
+    {
+        "role": "assistant",
+        "content": "Sparsh"
+    },
+    {
+        "role": "user",
+        "content": "Why are you just giving a one-word answer?"
+    },
+    {
+        "role": "assistant",
+        "content": "Sorry"
+    },
+    {
+        "role": "user",
+        "content": "Who is donald trump?"
+    },
+    {
+        "role": "assistant",
+        "content": "45th President"
+    },
+    {
+        "role": "user",
+        "content": "Of what."
+    },
+    {
+        "role": "assistant",
+        "content": "USA"
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Bye"
+    },
+    {
+        "role": "user",
+        "content": "Hello buddy what is your name?"
+    },
+    {
+        "role": "assistant",
+        "content": "Jarvis"
+    }
+]
