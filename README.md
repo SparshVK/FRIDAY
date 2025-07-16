@@ -13,17 +13,20 @@
 
 ## 🎬 Live Demo
 
-> 🎥 Coming Soon: Video demo showcasing real-time voice commands, web data fetching, and app control.
-> 
+![FRIDAY Demo](./demo.gif)
+> _Experience FRIDAY executing real-time voice commands_
+
+## 🎬 Watch the Demo Video
+
+[![Watch the video](https://drive.google.com/file/d/1IOIc8asmq2cNte6Ir-y1-5AaKxfSk5qs/view?usp=sharing)](https://drive.google.com/file/d/1M22GnJC_LLLIqCboo-46GNkxMcOj9J72/view?usp=sharing)
 
 ---
 
 ## 📸 UI Preview
 
-![FRIDAY Screenshot](https://github.com/your-username/FRIDAY-AI/assets/ui-preview.png)  
-> Replace with actual screenshot or interface preview.
+![FRIDAY Screenshot](./screenshot.png)
+> _Elegant interface for smooth interaction_
 
----
 
 ## 🚀 Features
 
@@ -152,8 +155,8 @@ docker run -it --rm --device /dev/snd friday-ai
 ## 📫 Contact & Credits
 
 **Developer:** Sparsh Kumar
-📧 Email: [sparsh.devmail@gmail.com](mailto:sparsh.devmail@gmail.com)
-🔗 GitHub: [github.com/sparsh-ai](https://github.com/sparsh-ai)
+📧 Email: [sparsh.devmail@gmail.com](mailto:sparshvk18dominate@gmail.com)
+🔗 GitHub: [github.com/sparsh-ai](https://github.com/SparshVK)
 🌐 Portfolio: [www.sparshkumar.dev](https://www.sparshkumar.dev)
 
 ---
